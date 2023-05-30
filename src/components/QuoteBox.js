@@ -12,9 +12,10 @@ const QuoteBox = () => {
   const author = useSelector(state => state.author);
 
   useEffect(() => {
-    console.log('Fetching quote...')
     dispatch(fetchQuote());
   }, [dispatch]);
+
+  
 
   return (
     <div id="quote-box">
