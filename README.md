@@ -1,4 +1,4 @@
-# React Markdown Previewer: 
+# Random Quote Machine:
 # https://fanciful-horse-3cfbe1.netlify.app/
 
 This is a Random Quote Machine built with React. The app allows users to view random quotes and tweet them if desired
